@@ -1,0 +1,2 @@
+# Ai-Powered-Handwritten-code-into-Digital-code-Coverter
+AnAiApplication that converts handwrittencode &amp; textintodigital format helps users by extracting handwritten content from images,correcting mistakes automatically, formattingcode properly,displaying both raw and corrected output.  The system is useful for students,developers,teachers,doctors, and office users who want to digitize code,prescriptions
