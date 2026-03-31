@@ -1,0 +1,13 @@
+numpy==1.26.4
+opencv-python==4.9.0.80
+streamlit
+pillow
+paddleocr
+paddlepaddle
+easyocr
+transformers
+torch
+torchvision
+torchaudio
+black
+autopep8
